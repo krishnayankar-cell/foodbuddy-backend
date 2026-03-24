@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GOOGLE_API_KEY = "AIzaSyD4qOtZ6pM84rqDEmdz9GQOHxECvf6Zj14"
+GOOGLE_API_KEY = 
 
 
 summary_cache = {}
